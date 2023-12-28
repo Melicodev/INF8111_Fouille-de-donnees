@@ -1,0 +1,99 @@
+Cluster 1:
+muqueuse
+follicule
+spermatozoïde
+
+Cluster 2:
+brune
+blonde
+
+Cluster 3:
+voici
+photo
+poster
+
+Cluster 4:
+philosophique
+doctrine
+philosophie
+métaphysique
+épistémologie
+
+Cluster 5:
+océanographie
+science
+scientifique
+
+Cluster 6:
+sauterelle
+insecte
+
+Cluster 7:
+langue
+grammaire
+
+Cluster 8:
+couille
+ouf
+gentil
+ben
+
+Cluster 9:
+calculette
+calculatrice
+
+Cluster 10:
+polonais
+roumain
+tchèque
+lituanien
+
+Cluster 11:
+néologisme
+étymologie
+
+Cluster 12:
+dedans
+dehors
+
+Cluster 13:
+virus
+pourriel
+
+Cluster 14:
+tribord
+cabestan
+
+Cluster 15:
+gris
+ocre
+écru
+couleur
+tissu
+robe
+beige
+
+Cluster 16:
+assistante
+rédactrice
+courriel
+
+Cluster 17:
+cent
+trente
+dix-sept
+dix
+dix-huit
+million
+douze
+quarante
+mille
+
+Cluster 18:
+médiéval
+antique
+
+Cluster 19:
+seule
+suis
+
